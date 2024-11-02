@@ -12,7 +12,7 @@ public class if_condition {
             System.out.println("Year " + year + " is not a leap year");
         }
         in.close();*/
-        /*
+
         float avg;
         System.out.println("Enter the Average marks :");
         Scanner in = new Scanner(System.in);
@@ -27,7 +27,7 @@ public class if_condition {
             System.out.println("Grade-D");
         } else {
             System.out.println(" Entered invalid Input");
-        }*/
+        }
 
         
     }
